@@ -1,0 +1,28 @@
+{
+    "context": "client",
+    "identifier": "net.corang.corBetterBuildBars",
+    "display_name": "Better Build Bars",
+    "description": "4 different build bars available - Check the UI tab in settings at the bottom - Also a thank you to lavasnake for all of his help",
+    "author": "Corang",
+    "version": "1.0.1",
+    "build": "62225",
+    "date": "2014/03/04",
+    "signature": "not yet implemented",
+    "forum": "https://forums.uberent.com/threads/rel-better-build-bar.57183/",
+    "category": [
+        "in-game",
+        "ui"
+    ],
+    "id": "corBetterBuildBars",
+    "priority": 100,
+    "live_game": [
+        "coui://ui/mods/corBetterBuildBars/corBetterBuildBar.js"
+    ],
+    "settings": [
+        "coui://ui/mods/corBetterBuildBars/CBBSettings.js"
+    ],
+    "requires": [
+        "rSettingsManager"
+    ],
+    "enabled": true
+}

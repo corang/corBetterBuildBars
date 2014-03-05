@@ -1,0 +1,17 @@
+.img_build_unit 
+{
+    height:32px;
+    width:32px;
+    margin:2px auto 0px;
+}
+.div_build_item {
+    height: 37px;
+    width: 41px;
+    border-right: 1px solid rgba(255,255,255,.05);
+    border-bottom: 1px solid rgba(255,255,255,.05);
+    margin-top: -1px;
+    margin: 0px 0px 0px;
+    float:left;
+    display:block;
+    position:relative;
+} 
